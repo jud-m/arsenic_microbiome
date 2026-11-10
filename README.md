@@ -1,4 +1,4 @@
-#Metagenomic analysis workflow for:
+# Metagenomic analysis workflow for:
 
 > Malas J, Zhao L, Landeche M, Sidebottom AM, Little J, Hampton-Marcell J, Sargis RM.
 > *Home is Where the Heterogeneity Is: Housing Facility-Level Differences in the Gut Microbiome
